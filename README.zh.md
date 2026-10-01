@@ -4,6 +4,8 @@
 
 [![Build Firmware](https://github.com/Mi-Bee-Studio/seeed-xiao-esp32c6/actions/workflows/build.yml/badge.svg)](https://github.com/Mi-Bee-Studio/seeed-xiao-esp32c6/actions/workflows/build.yml)
 
+<img src="docs/images/seeed-xiao-esp32c6.jpg" alt="Seeed XIAO ESP32C6" width="420">
+
 主板目录规范的一块板。**本仓库按"主板为根"规范组织**：
 
 ```
